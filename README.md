@@ -1,2 +1,2 @@
 # NER_BERT
-Türkçe NER csv
+Türkçe NER
